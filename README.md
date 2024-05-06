@@ -41,4 +41,4 @@ To deploy this project run
 
 ## Screenshots
 
-![Screenshot](C:\Users\varsh\Documents\Downloads\Endless Night Ride\Car.PNG)
+![Screenshot](\Car.PNG)
