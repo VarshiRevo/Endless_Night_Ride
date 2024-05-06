@@ -41,4 +41,4 @@ To deploy this project run
 
 ## Screenshots
 
-![Screenshot](\Car.PNG)
+![App Screenshot](/Car.PNG)
