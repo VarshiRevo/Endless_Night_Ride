@@ -42,3 +42,16 @@ To deploy this project run
 ## Screenshots
 
 ![App Screenshot](/Car.PNG)
+
+## Author
+
+- [@VarshiRevo](https://github.com/VarshiRevo)
+
+
+## Support
+
+For support,
+Email : varshigaps04.ai@gmail.com
+
+Join my Slack channel:
+https://join.slack.com/t/team-revoshared_invitezt-23bhnca2e-VEbQiDF8c~1hUYVjsNa06Q
